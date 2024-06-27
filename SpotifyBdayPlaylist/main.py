@@ -5,8 +5,8 @@ import lxml
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = "7bc27c78ffdd49d7839ad078898c9e93"
-CLIENT_SECRET = "f6da3323c8aa4fbd8efee971baece9a9"
+CLIENT_ID = "xxxxxx"
+CLIENT_SECRET = "xxxxxxx"
 REDIRECT_URI = "http://example.com"
 SPOTIFY_ENDPOINT = "https://api.spotify.com/v1"
 TOKEN = ("XXXXXXX")
